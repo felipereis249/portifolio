@@ -4,5 +4,5 @@
 </div>
 </body>
 <footer>
-  Thank you for coming!
+  <p style="text-align: center">Thank you for coming!</p>
 </footer>
