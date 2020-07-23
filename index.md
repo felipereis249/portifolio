@@ -3,6 +3,6 @@
   <h1>Woow! You found me! Check my profile for more info!</h1>
 </div>
 </body>
-<footer>
-  <p style="text-align: center">Thank you for coming!</p>
+<footer style="text-align: center">
+  Thank you for coming!
 </footer>
